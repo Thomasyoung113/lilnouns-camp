@@ -26,3 +26,7 @@ Lil Nouns Camp is a fork of Nouns Camp. You can fork it and use it under the obl
 This repo includes an `AI-CONTEXT.md` file with project-specific guidelines for AI coding assistants. Point your LLM tools to this file for better context and code consistency.
 
 For tools expecting specific filenames, consider creating a symlink (e.g., `ln -s AI-CONTEXT.md TOOL_SPECIFIC_FILENAME`).
+
+## Community Events
+
+Lil Nouns Camp hosts regular community events and workshops. Join our Discord to stay updated on upcoming activities.
